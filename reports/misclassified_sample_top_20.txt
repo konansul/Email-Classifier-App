@@ -1,0 +1,21 @@
+Misclassified Sample (Top 20)
+True: Vinculation | Predicted: General enquiry/errors
+True: Insurance change | Predicted: Insurance offer
+True: Financing balance credit | Predicted: HB & HBO
+True: Account clarification | Predicted: Change in payment transactions
+True: Cancellation | Predicted: Insurance offer
+True: General contract information | Predicted: Cancellation
+True: Policy/endorsement/cover | Predicted: Financing balance credit
+True: Data extract | Predicted: Change customer data
+True: Account clarification | Predicted: Bank statement
+True: Account clarification | Predicted: Change in payment transactions
+True: Financing balance residual value leasing | Predicted: Third party purchase
+True: Damage report/repair approval | Predicted: 1st Level Onlinetools
+True: Bank statement | Predicted: Contract adjustment
+True: Contract rewriting | Predicted: Call-back
+True: Insurance change | Predicted: Insurance offer
+True: Claims management | Predicted: Complaint
+True: Damage report/repair approval | Predicted: Compensation release
+True: Claims management | Predicted: Complaint
+True: Vinculation | Predicted: Liability Insurer
+True: HB & HBO | Predicted: Account clarification

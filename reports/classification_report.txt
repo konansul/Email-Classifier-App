@@ -1,0 +1,41 @@
+Classification Report
+                                          precision    recall  f1-score   support
+
+                   1st Level Onlinetools       0.93      1.00      0.97        14
+                   Account clarification       0.89      0.62      0.73        13
+                          Bank statement       0.70      0.84      0.76        19
+                            Calculations       0.88      1.00      0.94        15
+                               Call-back       0.93      1.00      0.96        13
+                            Cancellation       0.94      0.88      0.91        17
+                    Change customer data       0.78      1.00      0.88        18
+          Change in payment transactions       0.86      1.00      0.93        19
+                       Claims management       0.91      0.83      0.87        12
+                    Compensation release       0.88      0.94      0.91        16
+                               Complaint       0.87      0.93      0.90        14
+                     Contract adjustment       0.93      0.93      0.93        15
+                      Contract rewriting       0.89      0.94      0.91        17
+                             Credit item       0.85      0.79      0.81        14
+           Damage report/repair approval       0.87      0.81      0.84        16
+                            Data extract       1.00      0.74      0.85        19
+                           Devinculation       0.77      1.00      0.87        10
+                     Duplicate/KSV block       1.00      1.00      1.00        14
+             FB Lustum/ beneficial owner       1.00      0.94      0.97        17
+                Financing balance credit       0.85      0.79      0.81        14
+Financing balance residual value leasing       0.80      0.57      0.67        14
+                      Follow-up Contract       0.87      0.87      0.87        15
+                   Fuel card/maintenance       0.93      0.93      0.93        15
+            General contract information       1.00      0.71      0.83         7
+                  General enquiry/errors       0.91      0.91      0.91        11
+                                HB & HBO       0.82      0.69      0.75        13
+                        Insurance change       1.00      0.73      0.85        15
+                         Insurance offer       0.75      0.95      0.84        19
+                       Liability Insurer       0.92      0.92      0.92        13
+                Policy/endorsement/cover       0.94      0.89      0.92        19
+                               Sanierung       1.00      1.00      1.00        11
+                    Third party purchase       0.85      1.00      0.92        17
+                             Unsubscribe       1.00      1.00      1.00        17
+                             Vinculation       1.00      0.75      0.86         8
+
+                                accuracy                           0.89       500
+                               macro avg       0.90      0.88      0.88       500
+                            weighted avg       0.89      0.89      0.88       500
